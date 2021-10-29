@@ -1,0 +1,11 @@
+{
+  "dev":{
+    "RUNTIME": "this is dev runtime"
+  },
+  "qa":{
+    "RUNTIME": "this is qa runtime"
+  },
+  "prod":{
+    "RUNTIME": "this is prod runtime"
+  }
+}
